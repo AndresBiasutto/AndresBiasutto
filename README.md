@@ -34,7 +34,7 @@ Mi objetivo es crecer y desarrollarme constantemente. Busco oportunidades emocio
 ---
 
 ## QUÉ TECNOLOGÍAS USO
-
+<div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50">
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="JavaScript" width="50">
 <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="JavaScript" width="50">
@@ -43,6 +43,8 @@ Mi objetivo es crecer y desarrollarme constantemente. Busco oportunidades emocio
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" alt="JavaScript" width="50">
 <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="JavaScript" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="JavaScript" width="50">
+</div>
+
 
 Además, tengo conocimientos en Angular, PostgreSQL, MongoDB, Mongoose y Tailwind. También destaco mi experiencia como diseñador web con WordPress, lo que me permite crear y personalizar sitios web de manera efectiva.
 
