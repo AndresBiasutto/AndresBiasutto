@@ -36,6 +36,7 @@ Mi objetivo es crecer y desarrollarme constantemente. Busco oportunidades emocio
 ## QUÉ TECNOLOGÍAS USO
 
 -JavaScript
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100">
 -Node.js
 -React.js 
 -Redux.js 
@@ -45,7 +46,7 @@ Mi objetivo es crecer y desarrollarme constantemente. Busco oportunidades emocio
 -SQL
 Además, tengo conocimientos en Angular, PostgreSQL, MongoDB, Mongoose y Tailwind. También destaco mi experiencia como diseñador web con WordPress, lo que me permite crear y personalizar sitios web de manera efectiva.
 
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+
 ![Node.js](imagenes/nodejs.png)
 ![React.js](imagenes/react.png)
 ![Redux.js](imagenes/redux.png)
