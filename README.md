@@ -15,25 +15,25 @@ Here are some ideas to get you started:
 -->
 # HOLA!👋 Mi nombre es Andrés Biasutto
 
-### QUIÉN SOY
+#### QUIÉN SOY
 
 Soy desarrollador Full Stack. Además, tengo experiencia en diseño UX/UI y he trabajado como Full Stack en Social Media Lab. Dibujante desde toda la vida!. Me gusta creer que la gente me quiere por mi  empatía, creatividad, capacidad de aprendizaje e involuntaria capacidad para generar risas 😁.
 
 ---
 
-### QUÉ HAGO
+#### QUÉ HAGO
 
 Me dedico al desarrollo web, tanto en el frontend como en el backend. Utilizo mis habilidades técnicas y conocimientos para crear soluciones y aplicaciones web eficientes. También aplico mis conocimientos en diseño UX/UI para crear experiencias de usuario intuitivas y atractivas.
 
 ---
 
-### CUÁL ES MI OBJETIVO
+#### CUÁL ES MI OBJETIVO
 
 Mi objetivo es crecer y desarrollarme constantemente. Busco oportunidades emocionantes donde pueda aplicar mis habilidades y conocimientos para contribuir al crecimiento y éxito de un equipo dinámico.
 
 ---
 
-### QUÉ TECNOLOGÍAS USO
+#### QUÉ TECNOLOGÍAS USO
 <div style="width:100%; display: flex; justify-content: space-between; align-items: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50">
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="JavaScript" width="50">
@@ -50,3 +50,6 @@ Además, tengo conocimientos en Angular, PostgreSQL, MongoDB, Mongoose y Tailwin
 
 ---
 
+#### CONTACTO
+
+<a src=""><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="Linkedin" width="100"></a>
