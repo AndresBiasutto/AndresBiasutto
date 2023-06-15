@@ -36,9 +36,11 @@ Mi objetivo es crecer y desarrollarme constantemente. Busco oportunidades emocio
 ## QUÉ TECNOLOGÍAS USO
 
 -JavaScript
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50">
 -Node.js
+<img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="JavaScript" width="50">
 -React.js 
+<img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="JavaScript" width="50">
 -Redux.js 
 -Express.js 
 -HTML 
