@@ -52,4 +52,4 @@ Además, tengo conocimientos en Angular, PostgreSQL, MongoDB, Mongoose y Tailwin
 
 #### CONTACTO
 
-<a src=""><img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png" alt="Linkedin" width="100"></a>
+<a src="https://www.linkedin.com/in/andres-biasutto-522933231/"><img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png" alt="Linkedin" width="100"></a>
