@@ -45,7 +45,7 @@ Mi objetivo es crecer y desarrollarme constantemente. Busco oportunidades emocio
 -SQL
 Además, tengo conocimientos en Angular, PostgreSQL, MongoDB, Mongoose y Tailwind. También destaco mi experiencia como diseñador web con WordPress, lo que me permite crear y personalizar sitios web de manera efectiva.
 
-![JavaScript]([imagenes/javascript.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png))
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 ![Node.js](imagenes/nodejs.png)
 ![React.js](imagenes/react.png)
 ![Redux.js](imagenes/redux.png)
