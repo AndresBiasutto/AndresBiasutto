@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## QUIÉN SOY
 
-Soy desarrollador Full Stack con conocimientos en JavaScript, Node.js, React.js, Redux.js, Express.js, HTML, CSS y SQL. Además, tengo experiencia en diseño UX/UI y he trabajado como Full Stack en Social Media Lab. Dibujante de cosas divertidas desde toda la vida 😁. Me gusta creer que la gente me quiere por mi  empatía, creatividad, capacidad de aprendizaje e involuntaria capacidad para generar risas 😁.
+Soy desarrollador Full Stack. Además, tengo experiencia en diseño UX/UI y he trabajado como Full Stack en Social Media Lab. Dibujante desde toda la vida!. Me gusta creer que la gente me quiere por mi  empatía, creatividad, capacidad de aprendizaje e involuntaria capacidad para generar risas 😁.
 
 ---
 
 ## QUÉ HAGO
 
-Me dedico al desarrollo web, tanto en el frontend como en el backend. Utilizo mis habilidades técnicas y conocimientos en tecnologías como JavaScript, Node.js, React.js, Redux.js, Express.js, HTML, CSS y SQL para crear soluciones y aplicaciones web eficientes. También aplico mis conocimientos en diseño UX/UI para crear experiencias de usuario intuitivas y atractivas.
+Me dedico al desarrollo web, tanto en el frontend como en el backend. Utilizo mis habilidades técnicas y conocimientos para crear soluciones y aplicaciones web eficientes. También aplico mis conocimientos en diseño UX/UI para crear experiencias de usuario intuitivas y atractivas.
 
 ---
 
@@ -35,7 +35,23 @@ Mi objetivo es crecer y desarrollarme constantemente. Busco oportunidades emocio
 
 ## QUÉ TECNOLOGÍAS USO
 
-Las tecnologías que utilizo son JavaScript, Node.js, React.js, Redux.js, Express.js, HTML, CSS y SQL. Además, tengo conocimientos en Angular, PostgreSQL, MongoDB, Mongoose y Tailwind. También destaco mi experiencia como diseñador web con WordPress, lo que me permite crear y personalizar sitios web de manera efectiva.
+-JavaScript
+-Node.js
+-React.js 
+-Redux.js 
+-Express.js 
+-HTML 
+-CSS
+-SQL
+Además, tengo conocimientos en Angular, PostgreSQL, MongoDB, Mongoose y Tailwind. También destaco mi experiencia como diseñador web con WordPress, lo que me permite crear y personalizar sitios web de manera efectiva.
 
+![JavaScript](imagenes/javascript.png)
+![Node.js](imagenes/nodejs.png)
+![React.js](imagenes/react.png)
+![Redux.js](imagenes/redux.png)
+![Express.js](imagenes/express.png)
+![HTML](imagenes/html.png)
+![CSS](imagenes/css.png)
+![SQL](imagenes/sql.png)
 ---
 
