@@ -58,4 +58,4 @@ Además, tengo conocimientos en Angular, PostgreSQL, MongoDB, Mongoose y Tailwin
 
 #### CONTACTO
 
-<a src="https://www.linkedin.com/in/andres-biasutto/">https://www.linkedin.com/andres-biasutto</a>
+<a src="https://www.linkedin.com/in/andres-biasutto/">https://www.linkedin.com/in/andres-biasutto/</a>
