@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# HOLA!👋 Mi nombre es Andrés Biasutto
-
-#### QUIÉN SOY
+# 👋 Mi nombre es Andrés Biasutto
 
 Programador full stack con foco en front-end. Mi experiencia abarca el desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript, SQL y MongoDB. Me destaco en el uso de frameworks y librerías como React, Redux, PostgreSQL, Mongoose, Node.js y Express. He trabajado en proyectos para diversas empresas, creando soluciones innovadoras y funcionales.
 
